@@ -1,13 +1,13 @@
 title: Yby's journal
 description: I create premium custom websites for creative people that appreciate quality and simplicity.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://artemsheludko.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yuye2020.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
   name: Yan Boyun
-  image: '/assets/img/yby-test.png'
+  image: '/assets/img/yby-1.jpg'
   job: Postgraduate in UESTC
   bio:
   email: yan_boyun@163.com
