@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="container">
-  <h3 class="project-title" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">Things I've made</h3>
+  <h3 class="project-title" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">Happy Everyday!</h3>
   {% if site.projects.size > 0 %}
   {% assign sorted-projects = site.projects | sort: 'date' | reverse %}
     {% for project in sorted-projects %}
@@ -14,7 +14,7 @@ layout: default
       {% endif %}
       <div class="project__content">
         {% if project.price %}
-        <span class="project__new">Premium Theme</span>
+        <span class="project__new">Higher Theme</span>
         {% endif %}
         <h2 class="project__title">
           <a href="{{project.home}}" target="_blank" rel="noopener">{{project.title}}</a>
